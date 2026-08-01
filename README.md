@@ -41,12 +41,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ochiengjoshua&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ochiengjoshua&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+  <img height="165" src="https://raw.githubusercontent.com/ochiengjoshua/ochiengjoshua/main/assets/stats.svg" alt="GitHub Stats" />
+  <img height="165" src="https://raw.githubusercontent.com/ochiengjoshua/ochiengjoshua/main/assets/top-langs.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ochiengjoshua&hide_border=true&theme=default" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/ochiengjoshua/ochiengjoshua/main/assets/streak.svg" alt="GitHub Streak" />
 </p>
 
 ---

@@ -1,0 +1,35 @@
+name: Update Stats Cards
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch stats card
+        run: |
+          curl -sL "https://github-readme-stats.vercel.app/api?username=ochiengjoshua&show_icons=true&theme=default&hide_border=true&count_private=true" -o assets/stats.svg
+
+      - name: Fetch top languages card
+        run: |
+          curl -sL "https://github-readme-stats.vercel.app/api/top-langs/?username=ochiengjoshua&layout=compact&hide_border=true&theme=default" -o assets/top-langs.svg
+
+      - name: Fetch streak card
+        run: |
+          curl -sL "https://streak-stats.demolab.com?user=ochiengjoshua&hide_border=true&theme=default" -o assets/streak.svg
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg assets/top-langs.svg assets/streak.svg
+          git diff --cached --quiet || git commit -m "🔄 Refresh self-hosted stats cards"
+          git push
