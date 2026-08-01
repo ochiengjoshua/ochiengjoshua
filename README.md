@@ -1,12 +1,20 @@
-<h1 align="center">Hi there, I'm Joshua 👋</h1>
+<img width="100%" src="./assets/hero-banner.svg" alt="Joshua Angugo Ochieng" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Computer+Science+Student;Learning+Python+%26+JavaScript;Exploring+Databases+%26+Backend+Dev;Always+building+something+new" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/ochiengjoshua/ochiengjoshua/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ochiengjoshua&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views" />
-  <a href="https://github.com/ochiengjoshua?tab=followers"><img src="https://img.shields.io/github/followers/ochiengjoshua?label=Followers&style=flat&color=2E9EF7" alt="Followers" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=B08968&center=true&vCenter=true&width=460&lines=Computer+Science+Student;Learning+Python+%26+JavaScript;Exploring+Databases+%26+Backend+Dev;Always+building+something+new" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ochiengjoshua&label=Profile%20Views&color=B08968&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/ochiengjoshua?tab=followers"><img src="https://img.shields.io/github/followers/ochiengjoshua?label=Followers&style=flat-square&color=B08968" alt="Followers" /></a>
+</p>
+
+<p align="center">
+  🕒 <em>Local time (Nairobi):</em> <!--CLOCK_START-->loading...<!--CLOCK_END-->
 </p>
 
 ---
