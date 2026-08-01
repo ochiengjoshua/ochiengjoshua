@@ -19,7 +19,8 @@ jobs:
         with:
           github_user_name: ochiengjoshua
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23B08968&color_dots=%233E362E,%236B5843,%238A6E4E,%23B08968,%23F2E9DC&color_dark=%232B2621
+            dist/github-contribution-grid-snake.svg?color_snake=%23D7A86E&color_dots=%23EFE6D8,%23DCC7A1,%23C7A576,%23B08968,%238A6E4E&color_dark=%232B2621
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23E8C39E&color_dots=%233A3229,%234A4034,%236B5843,%238A6E4E,%23B08968&color_dark=%23191512
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

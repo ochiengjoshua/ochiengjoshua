@@ -1,8 +1,10 @@
 <img width="100%" src="./assets/hero-banner.svg" alt="Joshua Angugo Ochieng" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ochiengjoshua/ochiengjoshua/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ochiengjoshua/ochiengjoshua/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ochiengjoshua/ochiengjoshua/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ochiengjoshua/ochiengjoshua/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" style="display:block;" />
+</picture>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=B08968&center=true&vCenter=true&width=460&lines=Computer+Science+Student;Learning+Python+%26+JavaScript;Exploring+Databases+%26+Backend+Dev;Always+building+something+new" alt="Typing SVG" />
