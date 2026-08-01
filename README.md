@@ -1,4 +1,4 @@
-<img width="100%" src="./assets/hero-banner.svg" alt="Joshua Angugo Ochieng" />
+<img width="100%" src="https://raw.githubusercontent.com/ochiengjoshua/ochiengjoshua/main/assets/hero-banner.svg" alt="Joshua Angugo Ochieng" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ochiengjoshua/ochiengjoshua/output/github-contribution-grid-snake-dark.svg" />
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  🕒 <em>Local time (Nairobi):</em> <!--CLOCK_START-->Saturday, 01 August 2026 — 08:32 EAT<!--CLOCK_END-->
+  🕒 <em>Local time (Nairobi):</em> <!--CLOCK_START-->loading...<!--CLOCK_END-->
 </p>
 
 ---
