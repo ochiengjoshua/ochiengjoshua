@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  🕒 <em>Local time (Nairobi):</em> <!--CLOCK_START-->Tuesday, 04 August 2026 — 03:16 EAT<!--CLOCK_END-->
+  🕒 <em>Local time (Nairobi):</em> <!--CLOCK_START-->Tuesday, 04 August 2026 — 06:50 EAT<!--CLOCK_END-->
 </p>
 
 ---
